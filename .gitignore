@@ -1,3 +1,5 @@
 /static
 .DS_Store
 myenv
+db.sqlite3
+myvenv
